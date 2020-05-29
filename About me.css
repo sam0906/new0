@@ -1,0 +1,50 @@
+h1{
+   font-size:50px;
+   background-color: Light Grey;
+   font-family: 'Girassol', cursive;
+   Text-decoration: underline;
+   text-align:center;
+   }
+h4{
+   text-align:center;
+   Font-size:25px;
+   }
+.grid{
+    background-color: black;
+    display: grid;
+    padding: 20px;
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+    grid-template-columns: auto auto auto;
+    }
+.grid-item {
+            background-color: lightgrey;
+            font-size: 20px;
+            padding: 20px;
+            text-align: center;
+            }
+#Buttons{
+          background-color: white;
+          text-align: center;
+          }
+#Home,#Analytics,#Programminglists{
+                        background-color: light grey;
+	                    border-radius: 12px;
+	                    border:1px ;
+	                    display:inline-block;
+	                    cursor:pointer;
+	                    color: black;
+	                    font-family:Arial;
+	                    font-size:17px;
+	                    padding:6px 86px;
+                         }
+.End{
+     background-color: #32a0a8;
+     border: 1px solid ;
+     border-radius: 12px;
+     color: white;
+     padding: 5px 24px;
+     cursor: pointer;
+     width: 20%;
+     display: block;
+   }

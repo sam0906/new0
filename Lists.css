@@ -1,0 +1,55 @@
+img{
+    border-radius: 50%;
+    border: 1px;
+    }
+h1{
+    font-size: 50px;
+    color: Red;
+    text-decoration: Underline;
+    font-family: 'Amatic SC', cursive ;
+    text-align: center;
+    }
+h4{
+     font-size: 25px;
+     color: Black;
+     font-family: 'Dancing Script', sans-seriff;
+     text-align: left;
+     }
+#lists{
+       font-size: 25px;
+       font-family:'Lobster', cursive;
+       color: Black;
+       text-align: left;
+        }
+#Links{
+       font-size: 15px;
+       color:Blue;
+       text-align:left;
+       }
+
+#Buttons{
+          background-color: white;
+          text-align: center;
+          }
+#Home,#Analytics,#About{
+                        background-color: light grey;
+	                    border-radius: 12px;
+	                    border:1px ;
+	                    display:inline-block;
+	                    cursor:pointer;
+	                    color: black;
+	                    font-family:Arial;
+	                    font-size:17px;
+	                    padding:6px 86px;
+                        }
+
+.End{
+     background-color: #32a0a8;
+     border: 1px solid ;
+     border-radius: 12px;
+     color: white;
+     padding: 5px 24px;
+     cursor: pointer;
+     width: 20%;
+     display: block;
+   }

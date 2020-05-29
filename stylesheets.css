@@ -1,0 +1,26 @@
+ h1{
+          color: blue;
+          font-size: 38px;
+          text-align: center;
+          }
+       #First{
+             color: red;
+             font-size: 28px;
+              }
+       .Lists{
+             color: Black;
+             font-size: 18px;
+             }
+       table,th,td{
+            font-size: 18px;
+            border-collapse : collapse;
+            border: 2px solid black;
+            padding: 2px;
+            text-align: center;
+            }
+       #Second{
+             color: magenta ;
+             Font-family: Arial, Sans-seriff;
+             font-size: 28px;
+             font-weight: bold;
+             }
